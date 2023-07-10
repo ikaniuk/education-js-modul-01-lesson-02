@@ -56,4 +56,35 @@
  * 1,2 - 20$, 3,4 - 30$, 5 - 120$
  */
 
+// const stars = 6;
+// let price;
 
+// if (stars === 1 || stars === 2) {
+//     price = 20;
+// } else if (stars === 3 || stars === 4) {
+//     price = 30;
+// } else if (stars === 5) {
+//     price = 120;
+// } else {
+//     console.log('Такого кол-ва звезд нет');
+// }
+
+// console.log(price)
+
+// switch (stars) {
+//     case 1:
+//     case 2:
+//         price = 20;
+//         break;
+//     case 3:
+//     case 4:
+//         price = 30;
+//         break;
+//     case 5:
+//         price = 120;
+//         break;
+//     default:
+//         console.log('Такого кол-ва звезд нет');
+// }
+
+// console.log(price)
